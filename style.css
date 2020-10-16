@@ -1,0 +1,13 @@
+body {
+    background-color: coral; color: darkmagenta;
+}
+div {
+    font-size: larger
+    ; color: cyan;margin: 20px;
+}
+a {
+    color: darkred; font-size: x-large;
+}
+.test {
+    color: darkred;margin: 80px; font-size: xx-large; background-color: deeppink;
+}
